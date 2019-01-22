@@ -16,7 +16,7 @@ public class NovoProjeto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Minha menssagem");
+        System.out.println("Minha menssagemm");
     }
     
 }
